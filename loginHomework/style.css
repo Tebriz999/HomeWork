@@ -1,0 +1,29 @@
+body{
+background-image: url(./image2.jpg);
+background-size: 100%;
+background-position: center;
+height: 60vh;
+;
+}
+.borz{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    list-style: none;
+    color: oldlace;;
+}
+li{
+    margin-right: 60px;
+    font-size: 20px;
+}
+button{
+   padding: 15px;
+   background-color: blue;
+   color: white;
+}
+.art{
+    display: flex;
+}
